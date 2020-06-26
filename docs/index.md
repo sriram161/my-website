@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# About
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Passionate Developer Data Engineering and Science with 6+years of experience in Big-Data environment developing machine learning models, constructing analytical data pipelines to identify hidden patterns and answer complex business questions.
 
-## Commands
+## Snapshot
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Flask micro service development for predictive models on Docker containerization environment. 
+* Winner in PatriotHacks2019, Designed a feature engineering solution using sentence structure using Spacy.

@@ -1,56 +1,21 @@
 site_name: Sri Ram Sagar K
 site_author: Sri Ram Sagar K
 copyright: "Copyright &copy; 2019 - 2020 Sri Ram Sagar K"
-site_url: https://seandstewart.io
-repo_url: https://github.com/seandstewart/website
-repo_name: seandstewart/website
+site_url: https://sriramsagark.io
+repo_url: https://github.com/sriram161/my-website
+repo_name: sriramsagark/my-website
 nav:
   - index.md
-  - projects.md
-  - words.md
-  - pep20.md
   - contact.md
-theme:
-  name: "material"
-  favicon: "static/favicon/favicon.ico"
-  logo:
-    icon: "home"
-  palette:
-    primary: "blue grey"
-    accent: "blue"
-  font:
-    text: "IBM Plex Serif"
-    code: "IBM Plex Mono"
-markdown_extensions:
-  - toc:
-      permalink: "#"
-  - smarty
-  - admonition
-  - footnotes
-  - codehilite
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-  - fontawesome_markdown
+  - summary.md
+  - projects.md
 extra:
   social:
     - type: "github"
-      link: "https://github.com/seandstewart/website"
+      link: "https://github.com/sriram161/my-website"
     - type: "linkedin"
-      link: "https://linkedin.com/in/seandstewart"
+      link: "www.linkedin.com/in/sagar161"
   manifest: "static/favicon/site.webmanifest"
 extra_css:
   - "stylesheets/extra.css"
+
