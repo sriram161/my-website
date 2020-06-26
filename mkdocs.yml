@@ -1,9 +1,4 @@
 site_name: Sri Ram Sagar K
-site_author: Sri Ram Sagar K
-copyright: "Copyright &copy; 2019 - 2020 Sri Ram Sagar K"
-site_url: https://sriramsagark.io
-repo_url: https://github.com/sriram161/my-website
-repo_name: sriramsagark/my-website
 theme: readthedocs
 nav:
   - index.md
