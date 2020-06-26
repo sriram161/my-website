@@ -4,6 +4,7 @@ copyright: "Copyright &copy; 2019 - 2020 Sri Ram Sagar K"
 site_url: https://sriramsagark.io
 repo_url: https://github.com/sriram161/my-website
 repo_name: sriramsagark/my-website
+theme: mkdocs
 nav:
   - index.md
   - contact.md
