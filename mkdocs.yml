@@ -4,19 +4,9 @@ copyright: "Copyright &copy; 2019 - 2020 Sri Ram Sagar K"
 site_url: https://sriramsagark.io
 repo_url: https://github.com/sriram161/my-website
 repo_name: sriramsagark/my-website
-theme: mkdocs
+theme: readthedocs
 nav:
   - index.md
   - contact.md
   - summary.md
   - projects.md
-extra:
-  social:
-    - type: "github"
-      link: "https://github.com/sriram161/my-website"
-    - type: "linkedin"
-      link: "www.linkedin.com/in/sagar161"
-  manifest: "static/favicon/site.webmanifest"
-extra_css:
-  - "stylesheets/extra.css"
-
