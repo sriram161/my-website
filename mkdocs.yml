@@ -1,7 +1,15 @@
 site_name: Sri Ram Sagar K
-theme: readthedocs
+theme: 
+     name : material
 nav:
   - index.md
+  - professional experiences.md
+  - personal projects.md
+  - summary.md 
   - contact.md
-  - summary.md
-  - projects.md
+extra:
+  social:
+     - icon: fontawesome/brands/github-alt
+       link: https://github.com/sriram161/
+     - icon: fontawesome/brands/linkedin
+       link: https://www.linkedin.com/in/sagar161/
